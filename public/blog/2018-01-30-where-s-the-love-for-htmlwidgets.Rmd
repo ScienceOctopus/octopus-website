@@ -1,0 +1,53 @@
+---
+title: Where’s the love for htmlwidgets?
+author: Martin John Hadley
+date: '2018-01-30'
+slug: where-s-the-love-for-htmlwidgets
+categories:
+  - dataviz
+tags:
+  - R
+  - htmlwidgets
+draft: no
+---
+
+htmlwidgets are amazing and i need a change
+
+Too little data to do anything with Twitter or Google Trends!!
+
+```{r, eval=FALSE}
+devtools::install_github("RossiLorenzo/trendR")
+library(trendR)
+results <- google_trends(query = "rstats")
+results
+
+library(gtrendsR)
+
+res <- gtrends("htmlwidgets")
+
+res <- gtrends(c("nhl", "nba"), geo = c("CA", "US"))
+
+res
+
+
+tweets_htmlwidgets <- twitteR::searchTwitter("htmlwidget", n = 100, retryOnRateLimit = 0)
+tweets_htmlwidgets
+
+tweets_sanders <- searchTwitter('@BernieSanders', n=1500)
+
+tweets_sanders
+
+tweets_htmlwidgets <- searchTwitter('#htmlwidgets', n=10)
+tweets_ggplot2 <- searchTwitter('#ggplot2', n=10)
+tweets_dataviz <- searchTwitter('#dataviz', n=100)
+```
+
+
+https://twitter.com/search?q=htmlwidget
+
+<!--html_preserve-->
+            <a class="twitter-timeline"  href="https://twitter.com/search?q=htmlwidget&from=hadleywickham" data-widget-id="958318819889569792">Tweets about htmlwidget</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<!--/html_preserve-->
+
+

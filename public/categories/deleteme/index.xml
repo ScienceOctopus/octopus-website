@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deleteme on Visible Data</title>
+    <link>/categories/deleteme/</link>
+    <description>Recent content in Deleteme on Visible Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2016 - 2018, Visible Data Ltd; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 09 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/deleteme/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>footer</title>
+      <link>/blog/2018/02/09/2018-02-09-footer/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/02/09/2018-02-09-footer/</guid>
+      <description>FOOOOBAR Now? yeah no</description>
+    </item>
+    
+  </channel>
+</rss>

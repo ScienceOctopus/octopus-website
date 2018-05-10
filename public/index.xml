@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Octopus</title>
+    <link>/</link>
+    <description>Recent content on Octopus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2018, Octopus.</copyright>
+    <lastBuildDate>Thu, 10 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Octopus is born</title>
+      <link>/blog/2018/05/10/2018-05-10_octopus-is-born/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/05/10/2018-05-10_octopus-is-born/</guid>
+      <description>This blogpost can be written in Markdown.
+I’m a subheading I’m bold and I’m a link
+Underneath is an image
+
+ </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Octopus is awesome. We&amp;rsquo;re currently very much under construction.</description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/</guid>
+      <description>Octopus is awesome. We&amp;rsquo;re also a bunch of awesome humans.
+
+   Human 1     Human 2     Human 3     Human 4   
+ </description>
+    </item>
+    
+  </channel>
+</rss>

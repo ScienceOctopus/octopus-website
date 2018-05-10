@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reproducibility on Visible Data</title>
+    <link>/categories/reproducibility/</link>
+    <description>Recent content in Reproducibility on Visible Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2016 - 2018, Visible Data Ltd; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/reproducibility/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reproducible Workflow Charter</title>
+      <link>/blog/2018/03/15/2018-03-15-reproducible-workflow-charter/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/03/15/2018-03-15-reproducible-workflow-charter/</guid>
+      <description>Visible Data is all
+It’s extremely important to me to keep things reproducible and woke, here are some promises I commit to:
+ Only using public datasets for which a DOI is available. Proprietary munging behind a paywall is acceptable
+ Never use gender as a binary variable example (https://twitter.com/polesasunder/status/971622753261572096).
+ Spell check
+ styler
+ lintr
+ Refuse to work outside of a file synchronisation system
+  Appearance  Responsive iframes!</description>
+    </item>
+    
+  </channel>
+</rss>

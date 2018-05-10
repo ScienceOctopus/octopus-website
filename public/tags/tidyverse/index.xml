@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tidyverse on Universal</title>
+    <link>/tags/tidyverse/</link>
+    <description>Recent content in Tidyverse on Universal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2016 - 2018, Visible Data Ltd; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 31 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/tidyverse/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rounding in tibbles and pillar</title>
+      <link>/blog/2018/01/31/2018-01-31-rounding-in-tibbles-and-pillar/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/01/31/2018-01-31-rounding-in-tibbles-and-pillar/</guid>
+      <description>Tibble column chopping is a thing https://twitter.com/dataandme/status/956316981690585090
+I got a question from yup Chenzi Xu chenzi.xu@seh.ox.ac.uk
+Issue: https://github.com/r-lib/pillar/issues/93
+There are good options for controlling these https://www.tidyverse.org/articles/2018/01/tibble-1-4-2/?utm_content=buffer418b3&amp;amp;utm_medium=social&amp;amp;utm_source=twitter.com&amp;amp;utm_campaign=buffer
+But should there be an option for turning off rounding?
+library(&amp;quot;tidyverse&amp;quot;) ## ── Attaching packages ──────────────────────────────────────────────────────────────────────────────── tidyverse 1.2.1 ── ## ✔ ggplot2 2.2.1 ✔ purrr 0.2.4 ## ✔ tibble 1.4.2 ✔ dplyr 0.7.4 ## ✔ tidyr 0.8.0 ✔ stringr 1.2.0 ## ✔ readr 1.1.1 ✔ forcats 0.</description>
+    </item>
+    
+  </channel>
+</rss>

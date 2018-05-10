@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Universal</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Universal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2016 - 2018, Visible Data Ltd; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 30 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Where’s the love for htmlwidgets?</title>
+      <link>/post/where-s-the-love-for-htmlwidgets/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/where-s-the-love-for-htmlwidgets/</guid>
+      <description>htmlwidgets are amazing and i need a change</description>
+    </item>
+    
+  </channel>
+</rss>

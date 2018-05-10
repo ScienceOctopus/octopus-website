@@ -1,0 +1,12 @@
+---
+title: Visible Setup
+author: Martin John Hadley
+date: '2018-01-30'
+slug: visible-setup
+categories:
+  - meta
+tags:
+  - meta
+draft: no
+---
+

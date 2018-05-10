@@ -1,0 +1,13 @@
+---
+title: footer
+author: Martin John Hadley
+date: '2018-02-09'
+slug: footer
+description: "I AM THE DESCRIP"
+categories:
+  - deleteme
+tags: []
+draft: yes
+---
+
+FOOOOBAR Now? yeah no

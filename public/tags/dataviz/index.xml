@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dataviz on Visible Data</title>
+    <link>/tags/dataviz/</link>
+    <description>Recent content in Dataviz on Visible Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2016 - 2018, Visible Data Ltd; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 28 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/dataviz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Great circles with sf and leaflet</title>
+      <link>/blog/2018/02/28/2018-02-28_great-circles-with-sf-and-leaflet/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/02/28/2018-02-28_great-circles-with-sf-and-leaflet/</guid>
+      <description>Citable Author Martin John Hadley (orcid.org/0000-0002-3039-6849)     Citable Data No real data used.     Citable Code .Rmd on GitHub    Surprisingly often I’m asked to help folks build maps which visualise the journeys between geographic locations, in the bad old days of early 2017 I would have used the geospheres package and sp.</description>
+    </item>
+    
+  </channel>
+</rss>

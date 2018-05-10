@@ -1,0 +1,26 @@
+---
+title: "Octopus is born"
+author: Martin John Hadley
+date: '2018-05-10'
+slug: octopus-is-born
+categories:
+  - update
+tags:
+  - update
+draft: no
+editor_options: 
+  chunk_output_type: console
+description: >
+  Our first blogpost introduces the goals of the octopus platform and how we aim to help researchers with XXX
+banner: "img/blog-images/header-images/2018-05-10_octopus-is-born.png"
+---
+
+This blogpost can be written in Markdown.
+
+## I'm a subheading
+
+I'm **bold** and [I'm a link](https://google.com)
+
+Underneath is an image
+
+<img src='/img/blog-images/header-images/2018-05-10_octopus-is-born.png' width='200px'></img>

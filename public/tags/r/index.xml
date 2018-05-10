@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Visible Data</title>
+    <link>/tags/r/</link>
+    <description>Recent content in R on Visible Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2016 - 2018, Visible Data Ltd; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 28 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Great circles with sf and leaflet</title>
+      <link>/blog/2018/02/28/2018-02-28_great-circles-with-sf-and-leaflet/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/02/28/2018-02-28_great-circles-with-sf-and-leaflet/</guid>
+      <description>Citable Author Martin John Hadley (orcid.org/0000-0002-3039-6849)     Citable Data No real data used.     Citable Code .Rmd on GitHub    Surprisingly often I’m asked to help folks build maps which visualise the journeys between geographic locations, in the bad old days of early 2017 I would have used the geospheres package and sp.</description>
+    </item>
+    
+    <item>
+      <title>Recipes for learning</title>
+      <link>/blog/2018/02/18/2018-02-18-recipes-for-learning/</link>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/02/18/2018-02-18-recipes-for-learning/</guid>
+      <description>Citable Author Martin John Hadley (orcid.org/0000-0002-3039-6849)     Citable Data doi:10.1038/srep00196     Citable Code .Rmd on GitHub    I can accurately identify the day I started learning R properly as the 30th of April 2015. That’s the day I was invited for an interview on the 26th of May at University of Oxford which had an interview exercise that required me to create a dummy 10 minute introduction to dataviz with a tool of my choice, using an interesting dataset.</description>
+    </item>
+    
+    <item>
+      <title>Where’s the love for htmlwidgets?</title>
+      <link>/blog/2018/02/07/2018-02-07_where-s-the-love-for-htmlwidgets/</link>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/02/07/2018-02-07_where-s-the-love-for-htmlwidgets/</guid>
+      <description>Citable Author Martin John Hadley (orcid.org/0000-0002-3039-6849)     Citable Data R packages: cranlogs and versions     Citable Code .Rmd on GitHub    If you’ve never heard of them, htmlwidgets are an amazing part of the work that RStudio (plus Ramnath Vaidyanathan and Kent Russell)1 have undertaken to make R a beautiful tool for doing data science and communicating things about your data.</description>
+    </item>
+    
+  </channel>
+</rss>
