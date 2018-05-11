@@ -24,3 +24,4 @@ Contributing to Octopus We are just starting out. Please feel free to browse and
 
 <img src="/img/Marvel_example.png" width="600px"></img>
 <img src="/img/Web_of_Fields.png" width="600px"></img>
+<img src="/img/Breakdown.png" width="600px"></img>
