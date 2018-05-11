@@ -1,6 +1,6 @@
 ---
-title: "Octopus elife sprint"
-author: Martin John Hadley
+title: "Octopus @ eLife Sprint"
+author: Ally Dillenburg
 date: '2018-05-11'
 slug: octopus-elife-sprint
 categories:
@@ -11,16 +11,22 @@ draft: no
 editor_options: 
   chunk_output_type: console
 description: >
-  Our first blogpost introduces the goals of the octopus platform and how we aim to help researchers with XXX
-banner: "img/blog-images/header-images/2018-05-10_octopus-is-born.png"
+  Our second post is an update on all the work we've been doing at eLifeSprint2018.
+banner: "img/team-photo.png"
 ---
 
-This blogpost can be written in Markdown.
+## Two days of incredible teamwork 
 
-## I'm a subheading
+What an intense couple of days! Since eLife Sprint kicked off yesterday morning, 60 participants have formed small and diverse groups and worked on their open science projects. We've seen some amazing progress in the last 48 hours - from the inception of ideas to website and application design to content creation. Our 12-person team (including software developers, researchers, science communicators, UX designers, and publishers) has been working hard on creating a comprehensive tool to change the way scientific publishing is done.
 
-I'm **bold** and [I'm a link](https://google.com)
+Taking things forward, we want to share the potential of this tool with the world (espsecially institutions/funding bodies) and recruit people interested in developing this further.
 
-Underneath is an image
+If you want to know more about how we intend to do this, have a look at our [about page](https://octopus-hypothesis.netlify.com/)
 
-<img src='/img/blog-images/header-images/2018-05-10_octopus-is-born.png' width='200px'></img>
+You can also check out and contribute to our work on [GitHub](https://github.com/octopus-hypothesis). 
+
+
+<img src='/img/team-photo.png' width='600px'></img>
+
+
+
