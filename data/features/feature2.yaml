@@ -1,4 +1,4 @@
 weight: 2
-name: "Awesome 2"
-icon: "fa fa-bar-chart"
-description: "I describe a second thing that Octopus does really, really well. Unsure exactly what to write here for now. Maybe that Octopus was incubated in the eLife Hackaton 2018."
+name: "Contribute"
+icon: "fa fa-lightbulb-o"
+description: "Contribute your ideas, a method or analysis to a project"
