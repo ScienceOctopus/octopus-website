@@ -20,6 +20,16 @@ As a registered user, you can provide valuable feedback to help others with thei
 
 For more information, see our [blog post](https://octopus-hypothesis.netlify.com/blog/2018/05/10/2018-05-10_octopus-is-born/)
 
+## Octopus will incorporate existing tools:
+
+There are many [recent innovations](https://101innovations.wordpress.com/) in scholarly communication. Which of these could help us realise the Octopus vision?
+
+### Essential attributes:
+* Application Programming Interfaces
+* Domain and Publishing Standards
+* Persistent Identifiers
+* Sustainable and Affordable
+
 ## Work in progress:
 ### Example of a Hypothesis page with peer-review function:
 <img src="/img/Marvel_example.png" width="600px"></img>
