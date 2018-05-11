@@ -3,7 +3,7 @@ title = "Team"
 description = "Team"
 +++
 
-Octopus is awesome. We're also a bunch of awesome humans.
+Octopus was born at eLife Sprint 2018. Eleven invited participants contribtued to this project over the course of 2 days.
 
 <br>
 
@@ -15,15 +15,15 @@ Octopus is awesome. We're also a bunch of awesome humans.
 <center>
 <img src='/img/team/team-member-1.png' style="max-width:400px;width:25%"></img>
 <br>
-<span>Alessandra Dillenburg</span>
+<span>Alex Freeman</span>
 </center>
 </div>
 
 <div class="col-sm-3">
 <center>
-<img src='/img/team/team-member-2.png' style="max-width:400px;width:25%"></img>
+<img src='/img/team/team-member-1.png' style="max-width:400px;width:25%"></img>
 <br>
-<span>Human 2</span>
+<span>Alessandra Dillenburg</span>
 </center>
 </div>
 
@@ -32,16 +32,80 @@ Octopus is awesome. We're also a bunch of awesome humans.
 <center>
 <img src='/img/team/team-member-1.png' style="max-width:400px;width:25%"></img>
 <br>
-<span>Human 3</span>
+<span>Delwen Franzen</span>
 </center>
 </div>
 
 <div class="col-sm-3">
 
 <center>
-<img src='/img/team/team-member-2.png' style="max-width:400px;width:25%"></img>
+<img src='/img/team/team-member-1.png' style="max-width:400px;width:25%"></img>
 <br>
-<span>Human 4</span>
+<span>Simon Hazelwood-Smith</span>
+</center>
+</div>
+
+<div class="col-sm-3">
+
+<center>
+<img src='/img/team/team-member-1.png' style="max-width:400px;width:25%"></img>
+<br>
+<span>Rosario Villajos</span>
+</center>
+</div>
+
+<div class="col-sm-3">
+
+<center>
+<img src='/img/team/team-member-1.png' style="max-width:400px;width:25%"></img>
+<br>
+<span>Melissa Harrison</span>
+</center>
+</div>
+
+<div class="col-sm-3">
+
+<center>
+<img src='/img/team/team-member-1.png' style="max-width:400px;width:25%"></img>
+<br>
+<span>Kai Degrud</span>
+</center>
+</div>
+
+
+<div class="col-sm-3">
+
+<center>
+<img src='/img/team/team-member-1.png' style="max-width:400px;width:25%"></img>
+<br>
+<span>Hannah Drury</span>
+</center>
+</div>
+
+<div class="col-sm-3">
+
+<center>
+<img src='/img/team/team-member-1.png' style="max-width:400px;width:25%"></img>
+<br>
+<span>Ian Bruno</span>
+</center>
+</div>
+
+<div class="col-sm-3">
+
+<center>
+<img src='/img/team/team-member-1.png' style="max-width:400px;width:25%"></img>
+<br>
+<span>Emanuil Tolev</span>
+</center>
+</div>
+
+<div class="col-sm-3">
+
+<center>
+<img src='/img/team/team-member-1.png' style="max-width:400px;width:25%"></img>
+<br>
+<span>Martin John Hadley</span>
 </center>
 </div>
 
