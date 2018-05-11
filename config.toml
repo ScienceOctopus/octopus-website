@@ -111,10 +111,13 @@ paginate = 10
     # at 'exampleSite/data/carousel'.
     # For more informtion take a look at the README.
     
-[params.recent_posts]
+[params.see_more]
     enable = true
-    title = "Octopus Blog"
-    subtitle = "Our blog covers our development and growth from the eLife Hackathon of 2018 onwards."
+    icon = "fa fa-file-code-o"
+    title = "Do you want to see more?"
+    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+    link_url = "#"
+    link_text = "Check other homepages"
 
 [params.features]
     enable = true
@@ -130,14 +133,6 @@ paginate = 10
     title = "Testimonials"
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
-[params.see_more]
-    enable = false
-    icon = "fa fa-file-code-o"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
-
 [params.clients]
     enable = false
     # All clients are defined in their own files. You can find example items
@@ -146,3 +141,7 @@ paginate = 10
     title = "Our Clients"
     subtitle = ""
     
+[params.recent_posts]
+    enable = true
+    title = "Octopus Blog"
+    subtitle = "Our blog covers our development and growth from the eLife Hackathon of 2018 onwards."
