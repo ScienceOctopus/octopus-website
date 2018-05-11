@@ -9,17 +9,18 @@ What would science look like if we started again? The idea of Octopus is to crea
 
 # How it works
 
-**Discover**
+## Discover
 Explore projects in any scientific field in a language-agnostic way, accessible to all.
 
-**Contribute**
+## Contribute
 Use your ORCID-ID to log in and contribute your expertise to different steps of a project. You may want to contribute an idea, an analysis method or furture applications.
 
-**Review**
+## Review
 As a registered user, you can provide valuable feedback to help others with their projects. You can review any stage of the project with a rating and the option to leave a comment.
 
 For more information, see our [blog post](https://octopus-hypothesis.netlify.com/blog/2018/05/10/2018-05-10_octopus-is-born/)
 
 Contributing to Octopus We are just starting out. Please feel free to browse and contribute! 
 
-<img src="/img/hypothesis_page.png" width="600px"></img>
+<img src="/img/Marvel_example.png" width="600px"></img>
+<img src="/img/Web_of_Fields.png" width="600px"></img>
