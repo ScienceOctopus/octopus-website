@@ -15,7 +15,7 @@ Octopus is awesome. We're also a bunch of awesome humans.
 <center>
 <img src='/img/team/team-member-1.png' style="max-width:400px;width:25%"></img>
 <br>
-<span>Human 1</span>
+<span>Alessandra Dillenburg</span>
 </center>
 </div>
 
