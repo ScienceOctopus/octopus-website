@@ -22,7 +22,7 @@ For more information, see our [blog post](https://octopus-hypothesis.netlify.com
 
 ## Octopus will incorporate existing tools:
 
-Octopus may sound an overly ambitious project, but we are not planning to reinvent the wheel unnecessarily. There are many [recent innovations](https://101innovations.wordpress.com/) in scholarly communication. Which of these could help realise the Octopus vision? Are there others out there that we haven't considered? Let us know!
+Octopus may sound an overly ambitious project, but we are not planning to reinvent the wheel unnecessarily. There are many [recent innovations](https://101innovations.wordpress.com/) in scholarly communication. Which of these could help realise the Octopus vision? Are there others out there that we haven't considered? Let us know! Please email alex.freeman@maths.cam.ac.uk 
 
 ### Essential attributes:
 * Application Programming Interfaces
@@ -42,4 +42,4 @@ Octopus may sound an overly ambitious project, but we are not planning to reinve
 
 
 
-Interested in contributing? Please feel free to explore our [GitHub page](https://github.com/octopus-hypothesis) 
+Interested in contributing? Please feel free to explore our [GitHub page](https://github.com/octopus-hypothesis) or contact alex.freeman@maths.cam.ac.uk
