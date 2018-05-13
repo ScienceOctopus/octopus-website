@@ -123,5 +123,5 @@ In terms of translation, there are now very impressive automatic translation too
 
   <a href="https://github.com/octopus-hypothesis">GitHub</a></p>
 
-<center><img src='/img/blog-images/header-images/2018-05-10_octopus-is-born.png' width='200px'></img></center>
+
 </div>
