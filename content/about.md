@@ -5,7 +5,11 @@ description = "About"
 
 # Octopus
 
-What would science look like if we started again? The idea of Octopus is to create a one-stop place for all scientific research… freely open to all and language agnostic. Octopus is designed to be a community-owned platform, pulling together existing open publishing tools and encouraging others to develop more to make it serve the needs of science. Break the bonds that bind science to journals and which encourage poor scientific practice.
+What would science look like if we started again? The idea of Octopus is to create a single place for all scientific research to be published… freely open to all to read and language agnostic. Instead of publishing 'papers', the unit of publication will be smaller: a piece in the chain from problem -> hypothesis -> method/protocol -> data -> analysis -> interpretation -> real world applicaton. Reviews will be open and treated in the same way as other original contributions. This will fundamentally change the incentive structure in science, encouraging good practice.
+
+Octopus is designed to be a community-owned platform, pulling together existing open publishing tools and encouraging others to develop additional tools and modules to make it serve the needs of science. 
+
+Break the bonds that bind science to journals and which encourage poor scientific practice.
 
 # How it will work
 
@@ -18,7 +22,7 @@ Log in and publish your own ideas, data, analysis or real-world applications. No
 ### Review
 As a registered user, review the work of others. A replacement for traditional closed and pre-publication peer review, the Octopus system aims to value work for its scientific quality, not for its attractiveness to journal editors. Any registered reader can provide 1-5 ratings of contributions on pre-defined scales as well as leave a comment. With no anonymous log-ins, all review comments will be treated the same as other original contributions and be displayed on the reviewer's own personal page. This will reward constructive, collaborative reviewing.
 
-For more information, see our [blog post](https://octopus-hypothesis.netlify.com/blog/2018/05/10/2018-05-10_octopus-is-born/)
+For more information, see our blog posts [Octopus is Born](https://octopus-hypothesis.netlify.com/blog/2018/05/10/2018-05-10_octopus-is-born/) and [What is wrong with science](https://octopus-hypothesis.netlify.com/blog/2018/05/10/2018-05-13_fixingscience/)
 
 ## Octopus will incorporate existing tools:
 
