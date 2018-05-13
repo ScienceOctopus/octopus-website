@@ -12,6 +12,7 @@ editor_options:
   chunk_output_type: console
 description: >
   What Octopus aims to fix about science.
+banner: "img/blog-images/header-images/2018-05-10_octopus-is-born.png"
 ---
 
 <div id="what-is-wrong-in-science" class="section level2">
