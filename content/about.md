@@ -32,7 +32,7 @@ Octopus may sound an overly ambitious project, but we are not planning to reinve
 
 ## Work in progress:
 ### The chain of science. The principle behind Octopus is to break the 'unit of publication' down from being a 'paper' to its constituent parts. In Octopus each can be published individually, as long as it is linked to an existing published example from the level above:
-<img src="/img/Breakdown.png" width="600px"></img>
+<img src="/img/Vertical links.png" width="600px"></img>
 
 ### Example of an Octopus page, showing a published hypothesis which the user is about to peer review:
 <img src="/img/Marvel_example.png" width="600px"></img>
