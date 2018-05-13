@@ -137,11 +137,11 @@ paginate = 10
     enable = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
-    # For more informtion take a look at the README.
+    # For more information take a look at the README.
     title = "Our Clients"
     subtitle = ""
     
 [params.recent_posts]
     enable = true
     title = "Octopus Blog"
-    subtitle = "Our blog covers our development and growth from the eLife Hackathon of 2018 onwards."
+    subtitle = "Our blog covers our development and growth from the eLife Hackathon of May 2018 onwards."
