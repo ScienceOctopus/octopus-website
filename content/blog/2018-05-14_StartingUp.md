@@ -28,7 +28,7 @@ banner: "img/blog-images/header-images/radarwheel.png"
   <p><img src='/img/radarwheel.png' width='500px'></img></p>
   <p><i>An example infographic illustrating an author's contributions, and (below) a mock up author page from Octopus.</i></p>
   <p><img src='/img/authormockup.png' width='600px'></img></p>
-
+<br>
   
   <p>This much finer-grain detail would make Octopus a much more useful provider of information to academic panels than any other system - but it will take time and effort to make them aware of its potential, and willing to start overtly listing it as a source of information they will use when considering candidates for positions. Once they do, though, academics will quickly follow. There is likely to be a 'tipping point' quite early on - as long as Octopus can get enough momentum to start with to be demonstrably useful in some circumstances to academic institutions, then they have the potential to push it use far wider and relatively quickly through their influence over researchers' careers.</p>
   
