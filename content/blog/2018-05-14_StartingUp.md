@@ -26,7 +26,7 @@ banner: "img/blog-images/header-images/radarwheel.png"
   <p>Academic selection panels, therefore, are in a more entrenched position: they are trying to assess researchers to some extent simply by their perception by others within the field (i.e. will this person be SEEN as a good hire?), although they do of course want them to be genuinely good (or at least not actually 'bad', in terms of being the possible cause for scandal, which is very bad news for any institution). This makes them to some extent wedded to established system. However, given the importance of getting an appointment right, any extra information about a candidate would be very welcome. What sort of qualities as a researcher do they actually have? Are they an 'ideas person', a good collaborator, a thorough data scientist? Is their work genuinely well-respected in the field? All of these can be difficult questions to answer from the current metrics, gained from traditional publishing. However, Octopus has the potential to give much more information. Click on an individual's name in Octopus and you will be taken to a page which shows all their publications and reviews, along with their ratings. Infographics can easily summarise their output in far more detail given that each publication is far smaller, and more specific to the author.</p>
   
   <p><img src='/img/radarwheel.png' width='500px'></img></p>
-  <p><font size='8'>An example infographic illustrating an author's contributions, and (below) a mock up author page from Octopus.</font></p>
+  <p><i>An example infographic illustrating an author's contributions, and (below) a mock up author page from Octopus.</i></p>
   <p><img src='/img/authormockup.png' width='600px'></img></p>
 
   
