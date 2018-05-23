@@ -33,24 +33,24 @@ The write interface will also be language-agnostic. Write in your native languag
 As a registered user, review the work of others. A replacement for traditional closed and pre-publication peer review, the Octopus system aims to value work for its scientific quality, not for its attractiveness to journal editors. All your reviews can also be 'liked' by other readers, and will be listed on your own author page, giving recognition for this vital collaborative work.
 
 Anyone who is logged in can provide a rating of a publication on a set of pre-defined scales. For example, a hypothesis might be rated 1-5 on each of:
-- Original and important contribution
-- Clear, understandable and contains all necessary information to be verified or falsified
-- Scientifically/logically valid
+* Original and important contribution
+* Clear, understandable and contains all necessary information to be verified or falsified
+* Scientifically/logically valid
 
 A dataset might be rated 1-5 on each of:
-- data summary accurately represents the raw data
-- link to raw data provided with all necessary metadata for analysis
-- sample size
+* data summary accurately represents the raw data
+* link to raw data provided with all necessary metadata for analysis
+* sample size
 
 A registered user could also leave a review. These are not just 'comments', they are full publications in their own right. With no anonymous log-ins, all reviews (and the number of their 'likes' and 'dislikes' by other users) will be treated the same as other original contributions and be displayed on the reviewer's own personal page. This will reward constructive, collaborative reviewing. Algorithms could be developed to downgrade the work of authors whose work is consistently poorly rated by others (or those who consistently over-rate the work of specific other 'friends').
 
 Finally, a registered user can also 'flag' a publication for:
--	Potential plagiarism
--	Potential ethical issues
--	Potential inappropriate use of statistics
--	Potential misrepresentation of findings
--	Potential copyright issues
--	Potential inappropriate or unlawful content
+*	Potential plagiarism
+*	Potential ethical issues
+*	Potential inappropriate use of statistics
+*	Potential misrepresentation of findings
+*	Potential copyright issues
+*	Potential inappropriate or unlawful content
 
 Any flag will alert the author(s) of the publication being flagged, and open a page where the author can respond to the flag and comments from the reviewer. If the author does not republish a new version of the publication which satisfies the reviewer within a set period of time, the author's institution will automatically be notified in order for them to initiate their scientific misconduct complaints procedure. After investigation, the institution will be able to rule on the retraction or not of the publication, with their decision and the history of the dispute being viewable to all. (Anonymous complaints about a publication will always still be possible through direct contact with an institution as they are currently).
 
