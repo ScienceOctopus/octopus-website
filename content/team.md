@@ -40,7 +40,7 @@ Octopus was born at eLife Sprint 2018. Eleven invited participants contribtued t
 
 <div class="row">
 
-<div class="col-sm-3">
+<div class="col-sm-4">
 
 <center>
 <img src='/img/team/team-member-1.png' style="max-width:400px;width:25%"></img>
@@ -49,7 +49,7 @@ Octopus was born at eLife Sprint 2018. Eleven invited participants contribtued t
 </center>
 </div>
 
-<div class="col-sm-3">
+<div class="col-sm-4">
 
 <center>
 <img src='/img/team/team-member-1.png' style="max-width:400px;width:25%"></img>
@@ -58,7 +58,7 @@ Octopus was born at eLife Sprint 2018. Eleven invited participants contribtued t
 </center>
 </div>
 
-<div class="col-sm-3">
+<div class="col-sm-4">
 
 <center>
 <img src='/img/team/team-member-1.png' style="max-width:400px;width:25%"></img>
@@ -71,7 +71,7 @@ Octopus was born at eLife Sprint 2018. Eleven invited participants contribtued t
 
 <div class="row">
 
-<div class="col-sm-3">
+<div class="col-sm-4">
 
 <center>
 <img src='/img/team/team-member-1.png' style="max-width:400px;width:25%"></img>
@@ -81,7 +81,7 @@ Octopus was born at eLife Sprint 2018. Eleven invited participants contribtued t
 </div>
 
 
-<div class="col-sm-3">
+<div class="col-sm-4">
 
 <center>
 <img src='/img/team/team-member-1.png' style="max-width:400px;width:25%"></img>
@@ -90,7 +90,7 @@ Octopus was born at eLife Sprint 2018. Eleven invited participants contribtued t
 </center>
 </div>
 
-<div class="col-sm-3">
+<div class="col-sm-4">
 
 <center>
 <img src='/img/team/team-member-1.png' style="max-width:400px;width:25%"></img>
