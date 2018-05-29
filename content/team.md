@@ -36,6 +36,10 @@ Octopus was born at eLife Sprint 2018. Eleven invited participants contribtued t
 </center>
 </div>
 
+</div>
+
+<div class="row">
+
 <div class="col-sm-3">
 
 <center>
@@ -62,6 +66,10 @@ Octopus was born at eLife Sprint 2018. Eleven invited participants contribtued t
 <span>Melissa Harrison</span>
 </center>
 </div>
+
+</div>
+
+<div class="row">
 
 <div class="col-sm-3">
 
@@ -91,7 +99,11 @@ Octopus was born at eLife Sprint 2018. Eleven invited participants contribtued t
 </center>
 </div>
 
-<div class="col-sm-3">
+</div>
+
+<div class="row">
+
+<div class="col-sm-6">
 
 <center>
 <img src='/img/team/team-member-1.png' style="max-width:400px;width:25%"></img>
@@ -100,7 +112,7 @@ Octopus was born at eLife Sprint 2018. Eleven invited participants contribtued t
 </center>
 </div>
 
-<div class="col-sm-3">
+<div class="col-sm-6">
 
 <center>
 <img src='/img/team/team-member-1.png' style="max-width:400px;width:25%"></img>
