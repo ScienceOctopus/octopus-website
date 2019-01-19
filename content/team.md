@@ -2,8 +2,9 @@
 title = "Team"
 description = "Team"
 +++
+Octopus was conceived by Alex Freeman in summer 2017 in response to the question "What would you do if you could start again with the way science is done?" posed by Charles Ebikeme from the International Council for Science.
 
-Octopus was born at eLife Sprint 2018. Eleven invited participants contribtued to this project over the course of 2 days.
+Octopus was developed and nurtured at eLife Sprint 2018. Eleven invited participants contribtued to this project over the course of 2 days.
 
 <br>
 
@@ -120,6 +121,10 @@ Octopus was born at eLife Sprint 2018. Eleven invited participants contribtued t
 <span>Martin John Hadley</span>
 </center>
 </div>
+
+In November 2018, Octopus won backing from the Royal Society as part of its 'Improving Research Culture' programme. This allowed work on the user experience by Simon Hazlewood-Smith and the team at Science Practice.
+
+In December 2018, Octopus joined a partnership with the UK Reproducibility Network.
 
 </div>
 
