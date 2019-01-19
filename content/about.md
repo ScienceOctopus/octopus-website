@@ -7,7 +7,7 @@ description = "About"
 
 What would science look like if we started again? The idea of Octopus is to create a single place for all scientific research to be published… freely open to all to read and language agnostic. Instead of publishing 'papers', the unit of publication will be smaller: a piece in the chain from problem -> hypothesis -> method/protocol -> data -> analysis -> interpretation -> real world applicaton. Reviews will be open and treated in the same way as other original contributions. This will fundamentally change the incentive structure in science, encouraging good practice.
 
-Octopus is designed to be a community-owned platform, pulling together existing open publishing tools and encouraging others to develop additional tools and modules to make it serve the needs of science. 
+Octopus is designed to be a community-owned platform, pulling together existing open publishing tools and encouraging others to develop additional tools and modules to make it serve the needs of science. It is being developed in partnership with the <a href="http://www.dcn.ed.ac.uk/camarades/ukrn/">UK Reproducibility Network</a>.
 
 Break the bonds that bind science to journals and which encourage poor scientific practice.
 
