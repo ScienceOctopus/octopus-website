@@ -1,0 +1,29 @@
+---
+title: "Octopus Mock-ups finished"
+author: Alex Freeman
+date: '2019-01-19'
+slug: mock_ups
+categories:
+  - update
+tags:
+  - update
+draft: no
+editor_options: 
+  chunk_output_type: console
+description: >
+  Mock ups of Octopus finished - feedback needed! 
+banner: "img/blog-images/header-images/Mock-up.png"
+---
+<div id="moving-on" class="section level2">
+  <h2>Mock-ups of Octopus are completed!</h2>
+	  <p>Thanks to the award that Octopus won at the Royal Society, I was able to commission <a = href"https://www.science-practice.com">Science Practice</a> to create a series of mock-ups of what Octopus' user-interface might look like, and how the major features would actually work (as far as the user experience goes). Now those mock-ups are finished and ready for feedback!</p>
+	  <p> Working with the team at Science Practice was incredibly useful. I had met them at the eLife sprint in ay 2018, when this website and the real work on Octopus began, so they were the natural place to go for more help. Having to think through how every feature I had imagined for Octopus would actually function was a very good exercise - as well as deciding what its key features were that I would want to demonstrate through the mock-up.</p>
+	  <p>One of the biggest challenges that we faced was how to illustrate the system of linkage of publications in Octopus. One of its critical features is the fact that publications are not stand-alone, but form chains of linked work, but how would these vertical branching trees of linked publications be illustrated in the user interface, where space is at a premium?</p>
+	  <p>Well, you can judge for yourself, as the mock-ups are now available:</p>
+	  <p><a href="https://marvelapp.com/40ajh63/screen/52001319>Click here</a> to walk through the templates we have made.</p>
+	  <p>I have added comments to talk through the features and how to navigate the series of templates - you should be able to see these by clicking on the 'comments' in the bottom left of each page.</p>
+    <p>I would love to hear feedback on these. There are lots of small inconsistencies in the text, but I would love to hear about major issues and improvements that you can imagine - or features that you particularly like and think are important to retain. I know that different disciplines of science all have different styles of publication and different needs, so do let me know if you think there is a feature that Octopus needs to include in order to serve the needs of a particular field. Just email me at alex.freeman@maths.cam.ac.uk</p>
+	
+	
+  
+  </div>
