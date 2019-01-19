@@ -13,9 +13,10 @@ Break the bonds that bind science to journals and which encourage poor scientifi
 
 ## Mock-ups of how Octopus will look and will work for users:
 
-Click <a href="https://marvelapp.com/40ajh63/screen/52001319">here</a> to see our templates showing how Octopus will work for users
-(click on 'comments' in the bottom left for instructions)
-<img src="/img/Marvel_example.png" width="600px"></img>
+<p>Click <a href="https://marvelapp.com/40ajh63/screen/52001319">here</a> to see our templates showing how Octopus will work for users</p>
+<p>(click on 'comments' in the bottom left for instructions)</p>
+
+<img src="/img/Mock-up.png" width="600px"></img>
 
 # How it will work
 
