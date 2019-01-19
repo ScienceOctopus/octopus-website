@@ -11,8 +11,6 @@ Octopus is designed to be a community-owned platform, pulling together existing 
 
 Break the bonds that bind science to journals and which encourage poor scientific practice.
 
-## Mock-ups of how Octopus will look and will work for users:
-
 <p>Click <a href="https://marvelapp.com/40ajh63/screen/52001319">here</a> to see our templates showing how Octopus will work for users</p>
 <p>(click on 'comments' in the bottom left for instructions)</p>
 
