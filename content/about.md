@@ -11,6 +11,12 @@ Octopus is designed to be a community-owned platform, pulling together existing 
 
 Break the bonds that bind science to journals and which encourage poor scientific practice.
 
+## Mock-ups of how Octopus will look and will work for users:
+
+Click <a href="https://marvelapp.com/40ajh63/screen/52001319">here</a> to see our templates showing how Octopus will work for users
+(click on 'comments' in the bottom left for instructions)
+<img src="/img/Marvel_example.png" width="600px"></img>
+
 # How it will work
 
 ### Read
@@ -80,13 +86,9 @@ Octopus may sound an overly ambitious project, but we are not planning to reinve
 The principle behind Octopus is to break the 'unit of publication' down from being a 'paper' to its constituent parts. In Octopus each can be published individually, as long as it is linked to an existing published example from the level above:
 <img src="/img/Vertical links.png" width="600px"></img>
 
-### Example of an Octopus page, showing a published hypothesis which the user is about to peer review:
 
-<img src="/img/Marvel_example.png" width="600px"></img>
 
-### Mock-up of our Research Discovery tool: 
 
-<img src="/img/Web_of_Fields.png" width="600px"></img>
 
 
 
