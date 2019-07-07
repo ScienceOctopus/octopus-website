@@ -11,7 +11,7 @@ draft: no
 editor_options: 
   chunk_output_type: console
 description: >
-  Mock ups of Octopus finished - feedback needed! 
+  Octopus starts to take shape as a working prototype 
 banner: "img/blog-images/header-images/WorkingVersion.png"
 ---
 <div id="build_begins" class="section level2">
