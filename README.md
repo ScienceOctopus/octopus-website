@@ -1,3 +1,3 @@
-# Octopus Hypothesis
+# Octopus
 
-This repository is the website for the Octopus project, visit us at [https://octopus-hypothesis.netlify.com/](https://octopus-hypothesis.netlify.com/) or [http://sciencepublishing.online/](http://sciencepublishing.online/)
+This repository is the website for the Octopus science publishing project, visit us at [https://science-octopus.org](https://science-octopus.org) or [http://sciencepublishing.online/](http://sciencepublishing.online/)
