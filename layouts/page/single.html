@@ -1,55 +1,10 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
-
-  {{ partial "head.html" . }}
-
-  <body>
-
-    <div id="all">
-
-        <header>
-
-          {{ partial "nav.html" . }}
-
-        </header>
-
-        {{ partial "breadcrumbs.html" . }}
-
-        <div id="content">
-            {{ if isset .Params "id" }}
-
-              {{ partial .Params.id . }}
-
-            {{ else }}
-
-            <div class="container">
-
-                <div class="row">
-
-                    <div class="col-md-12">
-
-                        <div>
-                          {{ .Content }}
-                        </div>
-
-                    </div>
-
-                </div>
-                <!-- /.row -->
-
-            </div>
-            <!-- /.container -->
-
-            {{ end }}
-        </div>
-        <!-- /#content -->
-
-        {{ partial "footer.html" . }}
-
-    </div>
-    <!-- /#all -->
-
-    {{ partial "scripts.html" . }}
-
-  </body>
+<html>
+<head>
+  <title>Page Moved</title>
+  <meta http-equiv="refresh" content="1;url=https://blog.science-octopus.org/" />
+</head>
+<body>
+  <p>This page has moved to blog.science-octopus.org. <a href="https://blog.science-octopus.org/">Click here to go to the new URL.</a></p>
+</body>
 </html>
