@@ -1,3 +1,3 @@
-# Octopus
+# Octopus Website (deprecated)
 
-This repository is the website for the Octopus science publishing project, visit us at [https://science-octopus.org](https://science-octopus.org) or [http://sciencepublishing.online/](http://sciencepublishing.online/)
+This repository has been deprecated and replaced by [blog repository](https://github.com/ScienceOctopus/blog).
